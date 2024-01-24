@@ -1,2 +1,2 @@
-# Solving knapsack problem using genetic algorihtm
-Title says everything, i think
+# Genetic Packin' for Knapsack Crackin 
+It's in the title dumbass

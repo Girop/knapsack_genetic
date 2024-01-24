@@ -34,7 +34,7 @@ def fitness_function(decision: list[bool], param: ProblemParams) -> float:
         if not is_active:
             continue
         result += item.value
-        weight += item.value
+        weight += item.weight
     return result if weight <= param.max_weight else 0
 
 
