@@ -1,2 +1,2 @@
 # Genetic Packin' for Knapsack Crackin 
-It's in the title dumbass
+It's in the title.
